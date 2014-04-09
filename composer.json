@@ -1,0 +1,20 @@
+{
+    "name": "tommy/OpenGrapher",
+    "type": "library",
+    "description": "Simple helper to parse yaml into open graph tags.",
+    "require": {
+        "php": ">=5.3.0",
+        "symfony/yaml": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Tommy Marshall",
+            "email": "tommy.marshall@viget.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "OpenGrapher"
+        ]
+    }
+}

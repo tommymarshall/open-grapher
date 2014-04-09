@@ -1,0 +1,16 @@
+doug:
+  url: "http://tommyjm.com/open-graph-test/#!doug"
+  title: "The title for Doug"
+  description: "Doug also has a long content would go here."
+dan:
+  url: "http://tommyjm.com/open-graph-test/#!dan"
+  title: "The title for Dan"
+  description: "Dan also has a long content would go here."
+john:
+  url: "http://tommyjm.com/open-graph-test/#!john"
+  title: "The title for John"
+  description: "John also has a long content would go here."
+sally:
+  url: "http://tommyjm.com/open-graph-test/#!sally"
+  title: "The title for Sally"
+  description: "Sally also has a long content would go here."
